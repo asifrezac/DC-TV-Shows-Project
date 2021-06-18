@@ -3,7 +3,7 @@
 ## Project Description
 A combination of data manipulation and visualization were used to explore television data.
 
-In this project's guided variant, Super Bowl Data was looked at to generate insights into game outcomes, viewership, and even halftime shows. In the unguided variant of this project, an informative plot was developped that helped to visualize the viewership and quality of The Office throughout its nine seasons.
+In this project, Super Bowl Data was looked at to generate insights into game outcomes, viewership, and even halftime shows.
 
 ## Project Tasks
 1. TV, halftime shows, and the Big Game
